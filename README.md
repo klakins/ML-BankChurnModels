@@ -29,12 +29,14 @@ The target variable for the study will be:
 ### Approach
 Data Preprocessing: Address data quality issues, handle missing values, and manage class imbalances using Synthetic Minority Oversampling Technique (SMOTE).
 Model Evaluation: Models will be evaluated using key performance metrics:
-Accuracy
-Precision
-Recall
-F1-Score
-ROC-AUC
-Optimization: Hyperparameter tuning and cross-validation techniques was be applied to enhance model performance.
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **F1-Score**
+- **ROC-AUC**
+
+Optimization:
+- **Hyperparameter tuning and cross-validation techniques was be applied to enhance model performance.**
 
 ### Goal
 By implementing robust models, banks can better understand the drivers of customer churn, develop effective retention strategies, and mitigate attrition risks.
