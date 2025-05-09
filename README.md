@@ -37,8 +37,17 @@ Model Evaluation: Models will be evaluated using key performance metrics:
 
 Optimization:
 - **Hyperparameter tuning and cross-validation techniques was be applied to enhance model performance.**
+- 
 
 ### Goal
 By implementing robust models, banks can better understand the drivers of customer churn, develop effective retention strategies, and mitigate attrition risks.
+
+## Career Context  
+This academic project demonstrates my ability to:  
+- Build production-ready ML models  
+- Extract business insights from unstructured data  
+- Communicate technical findings effectively  
+
+*Currently exploring roles where I can apply these skills professionally.*  
 
 
