@@ -45,7 +45,7 @@ By implementing robust models, banks can better understand the drivers of custom
 ## Career Context  
 This academic project demonstrates my ability to:  
 - Build production-ready ML models  
-- Extract business insights from unstructured data  
+- Extract business insights from data  
 - Communicate technical findings effectively  
 
 *Currently exploring roles where I can apply these skills professionally.*  
